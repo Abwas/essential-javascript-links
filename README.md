@@ -86,7 +86,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) by Ilya Grigorik **#book**
 * ["Seven Languages in Seven Weeks"](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) Learn different ways of solving problems and you'll deepen your understanding of JavaScript. **#book**
 * [WebGL Fundamentals](http://webglfundamentals.org/) by Greggman - An interactive online book about graphics programming.
-
+* [Exploring JS](http://exploringjs.com/) by Dr. Axel Rauschmayer - A collection of books covering ES5, ES6 and beyond. **#book**
 
 
 ## Dev tools & collaboration
